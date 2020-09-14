@@ -1,4 +1,88 @@
-.a{
+button{
+	background-color: green;
+	border-color: red;
+	border-radius: 5px;
+}
+#rec{
+	color: green;
+}
+#Jones{
+	color: red;
+}
+.lessons{
+	border: 1px  solid red;
+	border-radius: 10px;
+	width: 500px;
+}
+#blue{
+	color: blue;
+}
+#redText{
+	color: red;
+}
+#head{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.adBlock{
+	border: 3px solid red;
+	border-radius: 10px;
+	width: 50%;
+}
+.price{
+	color: green;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: pink;
+}
+.city{
+	font-weight: 900;
+}
+.title{
+	position: solid;
+	margin-left: 50px;
+	float: right;
+	margin-right: 40px;
+	margin-top: 1em;
+}
+.adBlock img{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	height: 100px;
+	width: 200px;
+}
+.for{
+	font-weight: bold;
+}
+.car{
+	font-size: large;
+	font-size: bold;
+}
+#audi{
+	margin-right: 90px;
+}
+#bmw{
+	margin-right: 10px;
+}
+h4{
+	font-weight: normal;
+}
+h1, h4, h6{
+	margin-top: 0.3em; /* Отступ сверху */
+    margin-bottom: 0.3em;
+}
+#yellow{
+	background-color: yellow;
+}
+
+
+
+
+
+
+
+/*.a{
 	position: solid;
 	height:50px;
 	border:2px solid black;
